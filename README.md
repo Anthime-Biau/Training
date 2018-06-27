@@ -5,7 +5,7 @@ Hi, my name is Anthime Biau-Peyret, I'm 22 years old and I am studying at the Ma
 
 ## Description
 
-In those different projects, I have tried to improve my skills with the scikit learn library using Regression or Classification problems on Kaggle Competition.
+In those different projects, I have tried to improve my skills with the Python scikit learn library using Regression or Classification problems on Kaggle Competition.
 
 
 ## Table of Contents
