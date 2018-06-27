@@ -9,6 +9,6 @@ In this project, I tried to improve my skills with the scikit learn library
 
 
 ## Table of Contents
-* [01 - Regression California House Pricing Kernel](https://github.com/Anthime-Biau/Training/blob/master/California_House_Pricing_Kernel.ipynb) 
+* [01 - [Regression] California House Pricing Kernel](https://github.com/Anthime-Biau/Training/blob/master/California_House_Pricing_Kernel.ipynb) 
 
 
