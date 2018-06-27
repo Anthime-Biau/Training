@@ -10,5 +10,5 @@ In those different projects, I have tried to improve my skills with the Python s
 
 ## Table of Contents
 * [01 - [Regression] California House Pricing Kernel](https://github.com/Anthime-Biau/Training/blob/master/California_House_Pricing_Kernel.ipynb) 
-
+* [02 - [Regression] Bike Sharing Demand Kernel](https://github.com/Anthime-Biau/Training/blob/master/Bike_Sharing_Demand_Kernel.ipynb)
 
