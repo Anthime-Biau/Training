@@ -13,4 +13,5 @@ In those different projects, I have tried to improve my skills with the Python s
 * [02 - [Regression] Bike Sharing Demand Kernel](https://github.com/Anthime-Biau/Training/blob/master/Bike_Sharing_Demand_Kernel.ipynb)
 * [03 - [Regression] House Prices Kernel](https://github.com/Anthime-Biau/Training/blob/master/House_Prices_Kernel.ipynb)
 * [04 - [Classification] M.N.I.S.T Kernel](https://github.com/Anthime-Biau/Training/blob/master/MNIST_Kernel.ipynb)
+* [05 - [Classification] Titanic Kernel](https://github.com/Anthime-Biau/Training/blob/master/Titanic_Kernel.ipynb)
 
