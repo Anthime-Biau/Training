@@ -14,6 +14,6 @@ In those different projects, I have tried to improve my skills with the Python s
 * [03 - [Regression] House Prices Kernel](https://github.com/Anthime-Biau/Training/blob/master/House_Prices_Kernel.ipynb)
 * [04 - [Classification] M.N.I.S.T Kernel](https://github.com/Anthime-Biau/Training/blob/master/MNIST_Kernel.ipynb)
 * [05 - [Classification] Titanic Kernel](https://github.com/Anthime-Biau/Training/blob/master/Titanic_Kernel.ipynb)
-* [06 - [Clustering] M.N.I.S.T Kernel](https://github.com/Anthime-Biau/Training/blob/master/clustering_kernel.ipynb)
+* [06 - [Clustering] Mall Customer Kernel](https://github.com/Anthime-Biau/Training/blob/master/clustering_kernel.ipynb)
 * [07 - [MultiLayer Perceptron] M.N.I.S.T Kernel](https://github.com/Anthime-Biau/Training/blob/master/Keras_MNIST_Kernel.ipynb)
 
