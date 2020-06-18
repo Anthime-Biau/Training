@@ -16,5 +16,5 @@ In those different projects, I have tried to improve my skills with the Python s
 * [05 - [Classification] Titanic Kernel](https://github.com/Anthime-Biau/Training/blob/master/Titanic_Kernel_AI.ipynb)
 * [06 - [Clustering] Mall Customer Kernel](https://github.com/Anthime-Biau/Training/blob/master/clustering_kernel.ipynb)
 * [07 - [MultiLayer Perceptron] M.N.I.S.T Kernel](https://github.com/Anthime-Biau/Training/blob/master/Keras_MNIST_Kernel.ipynb)
-* [08 - [Sentiment Anlysis] Natural Language Processing, Tweeter (https://github.com/Anthime-Biau/Training/blob/master/Sentiment_Analysis.ipynb)
+* [08 - [Sentiment Anlysis] Natural Language Processing, Tweeter](https://github.com/Anthime-Biau/Training/blob/master/Sentiment_Analysis.ipynb)
 
